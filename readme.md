@@ -1,4 +1,4 @@
-#  maven-­‐project 
+# maven-project 1 
  This  is  my  prut project 
  ##  How  to  run  the  project 
 1.  Add  the  remote  repository:  git remote add origin https://github.com/pvm88dc/prut-maven-proj.git
